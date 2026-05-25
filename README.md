@@ -1,6 +1,6 @@
-# 🔥 FyreFit - Gamified Personal Fitness Tracker
+# 🔥 FitPulse - Gamified Personal Fitness Tracker
 
-FyreFit transforms fitness tracking into an engaging game-like experience. Log your daily activities, earn experience points, level up, and unlock achievement badges as you crush your health goals.
+FitPulse transforms fitness tracking into an engaging game-like experience. Log your daily activities, earn experience points, level up, and unlock achievement badges as you crush your health goals.
 
 ## ✨ Features
 
